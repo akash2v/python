@@ -1,0 +1,7 @@
+{
+    "emails": [
+        "a@gmail.com",
+        "b@gmail.com"
+    ],
+    "message": "Hey this is Akash, I am sending this email using Python"
+}
